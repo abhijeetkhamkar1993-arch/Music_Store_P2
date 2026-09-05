@@ -1,5 +1,5 @@
 # Music_Store_P2
-
+This is a SQL database end to end project and some query's... 
 ----------------------------MUSIC STORE DB PROJECT--------------------
 
 1. Who is the senior most employee based on job title?
